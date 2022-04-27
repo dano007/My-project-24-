@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5548579e4c37e8e41a18fc96b9fd397b, type: 3}
+  m_Name: NewTileGroup
+  m_EditorClassIdentifier: 
+  Tiles:
+  - _tileID: -1130599662
+    Default: {fileID: 8914586873978330890, guid: 822b6023d17181b4aad8bf0097bb7214, type: 3}
+    DisplayName: Dirt
+    Rules: []
+  - _tileID: 1357561504
+    Default: {fileID: 8834202864951973212, guid: b7e4fe67b89439148932a5713721fc5a, type: 3}
+    DisplayName: Grass
+    Rules: []
+  - _tileID: 850239857
+    Default: {fileID: 1945324685033056, guid: 8577e7e3959a6fb489ab025970d774ae, type: 3}
+    DisplayName: New Tile
+    Rules: []
+  - _tileID: -1246048609
+    Default: {fileID: 1890327429443360, guid: fa42b2473acef9446be737d06c3daaa2, type: 3}
+    DisplayName: New Tile
+    Rules: []
+  - _tileID: 939860372
+    Default: {fileID: 4331476889683338322, guid: 6db3f6db707b8f34f8deb22768180144, type: 3}
+    DisplayName: Fence
+    Rules: []
