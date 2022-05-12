@@ -12,12 +12,12 @@ GameObject:
   - component: {fileID: 2431782125634438595}
   - component: {fileID: 2431782125634438592}
   - component: {fileID: 7615563019758970735}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2431782125634438593
 Transform:
@@ -106,12 +106,12 @@ GameObject:
   m_Component:
   - component: {fileID: 2753341529787780450}
   - component: {fileID: 2431782127267326602}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dirt35
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2753341529787780450
 Transform:
@@ -164,12 +164,12 @@ GameObject:
   - component: {fileID: 473668400111666544}
   - component: {fileID: 4014805992739496420}
   - component: {fileID: 3529442536868162925}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &3334319288702598202
 Transform:
